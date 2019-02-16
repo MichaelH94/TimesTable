@@ -21,8 +21,9 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <ListView
+        android:id="@+id/timesTableList"
         android:layout_width="395dp"
-        android:layout_height="456dp"
+        android:layout_height="479dp"
         android:layout_marginStart="8dp"
         android:layout_marginLeft="8dp"
         android:layout_marginEnd="8dp"
@@ -38,7 +39,7 @@
         android:layout_height="52dp"
         android:layout_marginStart="88dp"
         android:layout_marginLeft="88dp"
-        android:layout_marginTop="16dp"
+        android:layout_marginTop="8dp"
         android:layout_marginEnd="88dp"
         android:layout_marginRight="88dp"
         android:gravity="center"
